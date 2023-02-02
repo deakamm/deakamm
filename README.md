@@ -34,10 +34,10 @@
       <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
     </a>
      <a href="https://www.typescriptlang.org/docs/" target="blank" style='margin-right:4px'> 
-      <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
+      <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
     </a>
       <a href="https://www.typescriptlang.org/docs/" target="blank" style='margin-right:4px'> 
-      <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Mysql/Mysql-plain.svg">  
+      <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Mysql/Mysql-plain.svg">  
     </a 
     <a href="https://laravel.com/docs/9.x" target="blank" style='margin-right:4px'> 
   <img align="center" alt="Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
