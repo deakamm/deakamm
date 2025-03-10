@@ -38,7 +38,10 @@
     </a>
     <a href="https://laravel.com/docs/9.x" target="blank" style='margin-right:4px'> 
   <img align="center" alt="Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
-    </a>   
+    </a> 
+       <a href="https://java.com/docs/9.x" target="blank" style='margin-right:4px'> 
+  <img align="center" alt="Java" height="30" width="40" src="https://static-00.iconduck.com/assets.00/java-icon-497x512-uwybstke.png">
+    </a>
     
     
 
